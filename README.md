@@ -1,1 +1,1 @@
-## React Base Project
+## Installment report calculator
